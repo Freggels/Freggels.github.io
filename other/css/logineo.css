@@ -1,0 +1,70 @@
+.btn-light:hover, .btn-light, .bg-gray, a.bg-gray:hover, button.bg-gray:hover, a.bg-gray:focus, button.bg-gray:focus {
+    background-color: transparent !important;
+    border-color: transparent !important;
+  }
+  
+  .btn-light:focus, .btn-light.focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  
+  .icon {
+    background-color: transparent !important;
+  }
+  
+  .bg-white {
+    background-color: #101010 !important;
+  }
+  
+  #nav-drawer .list-group li {
+    margin-bottom: 0px !important;
+  }
+  
+  .list-group-item.active {
+    border-color: #333 !important;
+  }
+  
+  .dropdown-menu.show,
+  .dropdown-divider {
+    border-color: #bbbbbb !important;
+  }
+  
+  .ytp-cued-thumbnail-overlay-image,
+  .ytp-button,
+  .ytp-cued-thumbnail-overlay,
+  .ytp-chrome-top,
+  .ytp-chrome-bottom,
+  .ytp-title-beacon,
+  .ytp-title-channel-logo,
+  .ytp-title-expanded-overlay,
+  .ytp-title-channel,
+  .ytp-title-expanded-heading,
+  .ytp-title-expanded-title,
+  .ytp-playlist-menu-button-icon,
+  .ytp-overflow-icon,
+  .ytp-title,
+  .ytp-title-text,
+  .ytp-chrome-top-buttons,
+  .html5-video-player a {
+    background-color: transparent !important;
+  }
+  
+  svg {
+    background-color: transparent !important;
+  }
+  
+  #page-footer.bg-dark {
+    background-color: transparent !important;
+  }
+  
+  .course-content ul li.section.main {
+    border-color: transparent !important
+  }
+  
+  * {
+    box-shadow: none !important;
+    scrollbar-width: thin;
+    scrollbar-color: #bbbbbb #202020;
+    color: #bbbbbb !important;
+    background-color: #101010 !important;
+  }
