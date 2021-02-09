@@ -8,4 +8,4 @@ A collection of public documents
 + 06.02.2021: Abi 2014 \[[HTML](./school/math/20210206/Abi2014.html)]
 
 ### Computer Science
-+ 09.02.2021: Mouse Simulation \[[MD](./school/cs/20210209/MausSimulation.html)\]
++ 09.02.2021: Mouse Simulation \[[HTML](./school/cs/20210209/MausSimulation.html)\]
