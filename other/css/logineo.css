@@ -1,70 +1,135 @@
-.btn-light:hover, .btn-light, .bg-gray, a.bg-gray:hover, button.bg-gray:hover, a.bg-gray:focus, button.bg-gray:focus {
-    background-color: transparent !important;
-    border-color: transparent !important;
-  }
-  
-  .btn-light:focus, .btn-light.focus {
-    outline: none !important;
-    box-shadow: none !important;
-  }
-  
-  .icon {
-    background-color: transparent !important;
-  }
-  
-  .bg-white {
-    background-color: #101010 !important;
-  }
-  
-  #nav-drawer .list-group li {
-    margin-bottom: 0px !important;
-  }
-  
-  .list-group-item.active {
-    border-color: #333 !important;
-  }
-  
-  .dropdown-menu.show,
-  .dropdown-divider {
-    border-color: #bbbbbb !important;
-  }
-  
-  .ytp-cued-thumbnail-overlay-image,
-  .ytp-button,
-  .ytp-cued-thumbnail-overlay,
-  .ytp-chrome-top,
-  .ytp-chrome-bottom,
-  .ytp-title-beacon,
-  .ytp-title-channel-logo,
-  .ytp-title-expanded-overlay,
-  .ytp-title-channel,
-  .ytp-title-expanded-heading,
-  .ytp-title-expanded-title,
-  .ytp-playlist-menu-button-icon,
-  .ytp-overflow-icon,
-  .ytp-title,
-  .ytp-title-text,
-  .ytp-chrome-top-buttons,
-  .html5-video-player a {
-    background-color: transparent !important;
-  }
-  
-  svg {
-    background-color: transparent !important;
-  }
-  
-  #page-footer.bg-dark {
-    background-color: transparent !important;
-  }
-  
-  .course-content ul li.section.main {
-    border-color: transparent !important
-  }
-  
-  * {
-    box-shadow: none !important;
-    scrollbar-width: thin;
-    scrollbar-color: #bbbbbb #202020;
-    color: #bbbbbb !important;
-    background-color: #101010 !important;
-  }
+:root {
+	--background-primary: #111;
+	--background-secondary: #676767;
+	--scrollbar: #888 var(--background-primary);
+}
+
+.btn-light:hover,
+.btn-light,
+.bg-gray,
+a.bg-gray:hover,
+button.bg-gray:hover,
+a.bg-gray:focus,
+.navbar,
+button.bg-gray:focus {
+	background-color: transparent !important;
+	border-color: transparent !important;
+}
+
+.btn-light:focus, .btn-light.focus {
+	outline: none !important;
+	box-shadow: none !important;
+}
+
+.btn-secondary {
+	border-color: var(--background-secondary) !important;
+}
+
+#nav-drawer .list-group li {
+	margin-bottom: 0px !important;
+}
+
+.list-group-item.active {
+	border-color: var(--background-secondary) !important;
+}
+
+.dropdown-menu.show,
+.dropdown-divider {
+	border-color: var(--background-secondary) !important;
+}
+
+.course-content ul li.section.main {
+	border-color: transparent !important;
+}
+
+.mt-sm-1,
+.my-sm-1 {
+	color: black !important;
+}
+
+.calendar_event_category {
+	background-color: #34a4a1 !important;
+}
+
+.calendar_event_course {
+	background-color: #229710 !important;
+}
+
+.calendar_event_user {
+	background-color: #a25aa4 !important;
+}
+
+.calendar_event_group {
+	background-color: #446666 !important;
+}
+
+.calendar_event_site {
+	background-color: #676723 !important;
+}
+
+.calendar_event_other {
+	background-color: #6400a4 !important;
+}
+
+.popover-region-toggle::after,
+.popover-region-toggle::before {
+	content: none !important;
+}
+
+.content-item-container,
+.popover-region-header-container {
+	border-bottom-color: var(--background-secondary) !important;
+}
+
+.popover-region-footer-container {
+	border-top-color: var(--background-secondary) !important;
+}
+
+.popover-region-container {
+	border-color: var(--background-secondary) !important;
+}
+
+.maincalendar .calendarmonth td,
+.maincalendar .calendarmonth th {
+	border-style: solid !important;
+	border-color: var(--background-secondary) !important;
+}
+
+hr {
+	background-color: var(--background-secondary) !important;
+}
+
+#region-main,
+.card {
+	border-color: transparent !important;
+}
+
+.fp-reficons2,
+.fp-reficons2,
+.fp-thumbnail,
+.d-block > div:nth-child(1),
+a,
+.fp-iconview,
+.fp-file,
+img,
+.calendar-circle {
+	border-color: transparent !important;
+}
+
+html,
+body,
+.bg-white,
+.dropdown-menu,
+#page-footer.bg-dark,
+.popover-region-container {
+	background-color: var(--background-primary) !important;
+	background-image: none !important;
+}
+
+* {
+	box-shadow: none !important;
+	scrollbar-width: thin;
+	scrollbar-color: var(--scrollbar);
+	color: #bbbbbb !important;
+	background-color: transparent !important;
+}
