@@ -121,7 +121,10 @@ body,
 .bg-white,
 .dropdown-menu,
 #page-footer.bg-dark,
-.popover-region-container {
+.popover-region-container,
+.modal-content,
+.popover,
+.yui3-panel {
 	background-color: var(--background-primary) !important;
 	background-image: none !important;
 }
