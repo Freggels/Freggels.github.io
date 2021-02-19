@@ -9,6 +9,7 @@ A collection of public documents
 
 ### Computer Science
 + 09.02.2021: Mouse Simulation \[[HTML](./school/cs/20210209/MausSimulation.html)\]
++ 12.02.2021: Abitur: Zug \[[HTML](./school/cs/20210212/zug.html)\]
 
 ## Custom CSS
 + logineo/moodle \[[CSS](./other/css/logineo.css)]
