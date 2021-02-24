@@ -1,6 +1,7 @@
 :root {
 	--background-primary: #111;
-	--background-secondary: #676767;
+	--background-secondary: #666;
+	--foreground-primary: #bbb;
 	--scrollbar: #888 var(--background-primary);
 }
 
@@ -133,6 +134,6 @@ body,
 	box-shadow: none !important;
 	scrollbar-width: thin;
 	scrollbar-color: var(--scrollbar);
-	color: #bbbbbb !important;
+	color: var(--foreground-primary) !important;
 	background-color: transparent !important;
 }
