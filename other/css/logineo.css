@@ -1,6 +1,7 @@
 :root {
   --background-primary: #111;
   --background-secondary: #666;
+  --background-tertiery: #222;
   --foreground-primary: #bbb;
   --scrollbar: #888 var(--background-primary);
 }
@@ -90,6 +91,14 @@ button.bg-gray:focus {
 
 hr {
   background-color: var(--background-secondary) !important;
+}
+
+.message-app .message.received {
+  background-color: var(--background-tertiery) !important;
+}
+
+.message-app .message.received .tail {
+  visibility: collapse !important;
 }
 
 #region-main,
