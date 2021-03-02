@@ -97,7 +97,7 @@ hr {
   background-color: var(--background-tertiery) !important;
 }
 
-.message-app .message.received .tail {
+.message-app .message .tail {
   visibility: collapse !important;
 }
 
