@@ -13,7 +13,8 @@ Me, as in Julian Storozhenko.
 + 12.02.2021: Abitur: Zug \[[HTML](./school/cs/20210212/doc.html)\]
 
 ### Sport
-+ 02.03.2021: Doping \[[PDF](./school/sport/20210302/doping/file.pdf)] \[[ODG](./school/sport/20210302/doping/file.odg)] 
++ 02.03.2021: Doping -> Wirkungen \[[PDF](./school/sport/20210302/doping/file.pdf)] \[[ODG](./school/sport/20210302/doping/file.odg)]
++ 02.03.2021: Doping -> Nebenwirkungen \[[PDF](./school/sport/20210302/doping/file2.pdf)] \[[ODG](./school/sport/20210302/doping/file2.odg)]
 
 ### Physics
 + 24.02.2021: Franck-Hertz-Experiment \[[HTML](./school/physics/20210224/doc.html)]
