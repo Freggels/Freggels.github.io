@@ -20,6 +20,9 @@ Me, as in Julian Storozhenko.
 ### Physics
 + 24.02.2021: Franck-Hertz-Experiment \[[HTML](./school/physics/20210224/doc.html)]
 
+### German
++ 10.03.2021: Novelle \[[HTML](./school/german/20210310/file.html)]
+
 ### Chem
 + 28.01.2021: Fragenkatalog: Die unsichtbare Welt der Strahlen \[[PDF](./school/chem/20210128/doc.pdf)]
 + 02.02.2021: Atommodelle \[[PNG](./school/chem/20210202/pic.png)] \[[SVG](./school/chem/20210202/pic.svg)]
