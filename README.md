@@ -20,6 +20,7 @@ Me, as in Julian Storozhenko.
 
 ### Physics
 + 24.02.2021: Franck-Hertz-Experiment \[[HTML](./school/physics/20210224/doc.html)]
++ 11.03.2021: Leuchtstofflampe und Franck-Hertz-Röhre \[[PDF](./school/physics/20210311/file.pdf)] \[[HTML](./school/physics/20210311/file.html)]
 
 ### German
 + 10.03.2021: Novelle \[[HTML](./school/german/20210310/file.html)]
