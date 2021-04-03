@@ -28,7 +28,7 @@ Me, as in Julian Storozhenko.
 ### Chem
 + 28.01.2021: Fragenkatalog: Die unsichtbare Welt der Strahlen \[[PDF](./school/chem/20210128/doc.pdf)]
 + 02.02.2021: Atommodelle \[[PNG](./school/chem/20210202/pic.png)] \[[SVG](./school/chem/20210202/pic.svg)]
-+ 02.04.2021: Präsentation: Azofarbstoffe \[[HTML](./school/chem/20210402/file.html)]
++ 02.04.2021: Präsentation: Azofarbstoffe \[[HTML](./school/chem/20210402/file.html)] \[[PDF](./school/chem/20210402/file.pdf)]
 
 ### English
 + 25.01.2021: Useful questions for Nigeria \[[PDF](./school/english/20210125/doc.pdf)]
