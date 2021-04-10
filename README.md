@@ -60,9 +60,9 @@ Me, as in Julian Storozhenko.
 - 02.02.2021: Bewertung des Freihandelsabkommen \[[PDF](./school/social/20210202/doc.pdf)]
 - 10.04.2021: Präsentation – Wirtschaftspolitik
   - Legitimation staatlichen Handelns im Bereich der Wirtschaftspolitik \[[HTML](./school/social/20210410/presentation/file1.html)]
-  - Magisches Viereck \[[HTML](./school/social/20210410/presentation/file1.html)]
-  - Qualitatives Wachstum und nachhaltige Entwicklung \[[HTML](./school/social/20210410/presentation/file1.html)]
-  - Konjunktur- und Wachstumsschwankungen \[[HTML](./school/social/20210410/presentation/file1.html)]
+  - Magisches Viereck \[[HTML](./school/social/20210410/presentation/file2.html)]
+  - Qualitatives Wachstum und nachhaltige Entwicklung \[[HTML](./school/social/20210410/presentation/file3.html)]
+  - Konjunktur- und Wachstumsschwankungen \[[HTML](./school/social/20210410/presentation/file4.html)]
 
 ## Custom CSS
 
