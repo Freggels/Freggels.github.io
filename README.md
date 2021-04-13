@@ -63,6 +63,7 @@ Me, as in Julian Storozhenko.
   - Magisches Viereck \[[HTML](./school/social/20210410/presentation/file2.html)]
   - Qualitatives Wachstum und nachhaltige Entwicklung \[[HTML](./school/social/20210410/presentation/file3.html)]
   - Konjunktur- und Wachstumsschwankungen \[[HTML](./school/social/20210410/presentation/file4.html)]
+  - Wirtschaftspolitische Konzeptionen \[[HTML](./school/social/20210410/presentation/file5.html)]
 
 ## Custom CSS
 
