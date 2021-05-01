@@ -3,6 +3,10 @@
 A public collection of my personal school documents.
 Me, as in Julian Storozhenko.
 
+## Covid Tests
+
+- 01.05.2021: \[[PDF](./covid-tests/20210501/file.pdf)]
+
 ## List of Files by subject
 
 ### Math
